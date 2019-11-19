@@ -1,6 +1,7 @@
 """
 
 """
+import os , sys
 import pymysql
 import re
 # 链接数据库
